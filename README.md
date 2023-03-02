@@ -19,4 +19,8 @@ Script finds your last saved game, creates duplicate of folder and write current
 3. It creates new folder.
 4. It gives folder a name that was generated previously.
 
+## Additional info:
+The game saves your character every time you close the application **or** go to main menu. It is the only way to actualise your save. So the best way to use this script: duplicate your save after each game session or exit to main menu before stressful moment in game, use script, and continue after that. 
+
+**Glad if this little script makes your game easier and more enjoyable!**
 
