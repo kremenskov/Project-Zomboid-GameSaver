@@ -22,5 +22,7 @@ Script finds your last saved game, creates duplicate of folder and write current
 ## Additional info
 The game saves your character every time you close the application **or** go to main menu. It is the only way to actualise your save. So the best way to use this script: duplicate your save after each game session or exit to main menu before stressful moment in game, use script, and continue after that. 
 
+If there is a warning window from SmartScreen click "More info" and then "Run anyway". It happens sometines with .exe files and selfmade scripts. You can check Node JS code any code and be sure that it's safe.
+
 **Glad if this little script makes your game easier and more enjoyable!**
 
