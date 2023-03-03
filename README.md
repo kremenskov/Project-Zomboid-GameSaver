@@ -4,7 +4,7 @@ A simple tool that allows you to create any amount of save files and avoid delet
 
 ## How to use it?
 1. Download **GameSaver.exe** script from repository.
-2. Move script file to the directory with 'Project Zomboid' saves. Default directory is *C:/Users/Your_Username/Zomboid/Save*.
+2. Move script file to the directory with 'Project Zomboid' saves. Default directory is *C:/Users/Your_Username/Zomboid/Saves*.
 3. Create desktop shortcut if you want.
 4. Double click on script icon (or shortcut) to create new savefile. Now your character will not be deleted and you can play 'Project Zomboid' as any other game.
 
